@@ -161,6 +161,9 @@ p {
 .skills + * {
   margin-top: 25px;
 }
+.certification-badges img {
+  width: 110px;
+}
 #contact {
   text-align: center;
   padding-left: 0;
