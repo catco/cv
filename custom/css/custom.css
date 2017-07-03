@@ -164,6 +164,16 @@ p {
 .skills + * {
   margin-top: 25px;
 }
+.certifications {
+  padding-left: 0;
+}
+.certifications li {
+  display: inline-block;
+}
+.certifications li:nth-child(3) {
+  padding: 10px;
+  background:red;
+}
 .certification-badges img {
   width: 110px;
 }
